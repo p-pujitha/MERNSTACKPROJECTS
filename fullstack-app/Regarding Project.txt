@@ -1,0 +1,5 @@
+Basic Installations for this project : Node Js, React Js, MongoDB & Visual Studio Code editor
+
+Description of project : This is the basic MERN stack project which contains 2 folders 
+1. Client -> This folder contains UI of this project and basic functionalities written in react & redux
+2. Server -> This folder contains Express JS API's where data get stored in MongoDB.
